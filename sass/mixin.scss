@@ -1,0 +1,8 @@
+
+
+@mixin inline-block ($border) {
+border: $border;
+}
+.btn{
+    @include inline-block(3px solid yellow);
+}

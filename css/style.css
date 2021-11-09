@@ -1,0 +1,22 @@
+.btn {
+  border: 3px solid yellow;
+}
+
+.text, .h1, .textarea {
+  color: red;
+  font-size: 20px;
+}
+
+.btn-default {
+  color: black;
+}
+
+.test1 {
+  content: "html";
+}
+
+.test2 {
+  content: "Spring";
+}
+
+/*# sourceMappingURL=style.css.map */
